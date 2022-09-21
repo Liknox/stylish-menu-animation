@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Fredoka One", cursive;
+  background-color: #120e2c;
 }
 
 .container {
@@ -65,7 +66,7 @@ ul li a:hover::before {
     font-size: 80px;
     color: #271f61;
     background-color: #120e2c;
-    height: 100vh;
+    height: 95vh;
     text-align: center;
   }
 }/*# sourceMappingURL=index.css.map */
