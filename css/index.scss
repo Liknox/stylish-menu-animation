@@ -15,3 +15,25 @@
 	background-color: #3b2a27;
 }
 
+ul {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+	li {
+		position: relative;
+		list-style: none;
+		a {
+			position: relative;
+			font-size: 5em;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 1em;
+			letter-spacing: 2px;
+			text-transform: uppercase;
+			color: transparent;
+			-webkit-text-stroke: 1px rgba(225, 225, 225, 0.5);
+			
+		}
+	}
+}
